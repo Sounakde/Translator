@@ -42,4 +42,4 @@ The program can be run with the command
 
     python translator.py
 
-The executable file can also be run by clicking on it but make sure that the text file from which the program is going to read is in th same folder as the executable file.
+The executable file can also be run by clicking on it but make sure that the text file from which the program is going to read is in the same folder as the executable file.
