@@ -43,3 +43,6 @@ The program can be run with the command
     python translator.py
 
 The executable file can also be run by clicking on it but make sure that the text file from which the program is going to read is in the same folder as the executable file.
+
+## Repl.it URL
+[[Run on Repl.it](https://repl.it/badge/github/Sounakde/Translator)](https://repl.it/github/Sounakde/Password_checker)
