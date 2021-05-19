@@ -33,3 +33,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        working-directory: C:\Users\souna\AppData\Local\Programs\Python\Python39\Python Files\Translator
