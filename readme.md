@@ -7,8 +7,6 @@ The translator project translates one language to another user desired language 
 ## Technologies Used
 
 * Python
-* HTML
-* TeX
 
 ## Setting Up
 
